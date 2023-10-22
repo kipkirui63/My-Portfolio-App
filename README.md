@@ -3,7 +3,7 @@
 #### By: Enock Sang. (Software Engineer)
 1. Slack/Mattermost - enock.kipirui.
 2. linkedin - Enock Snag.
-3. Email - kiprotych@gmail.com
+3. Email - enocksang@gmail.com
 
 ### URL
 #### live Page links
