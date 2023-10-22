@@ -1,16 +1,16 @@
 # My Portfolio
 
-#### By: Yegon G.K. (Software Engineer)
-1. Slack/Mattermost - Yegon.
-2. linkedin - Yegon G.K.
+#### By: Enock Sang. (Software Engineer)
+1. Slack/Mattermost - enock.kipirui.
+2. linkedin - Enock Snag.
 3. Email - kiprotych@gmail.com
 
 ### URL
 #### live Page links
-https://github.com/KIPROTYCH/My-Portfolio.git
+https://github.com/kipkirui63/My-Portfolio.git
 
 #### Repository link
-https://github.com/KIPROTYCH/My-Portfolio.git
+https://github.com/kipkirui/My-Portfolio.git
 
 #### JSON Server link
 https://sports-1bfw.onrender.com/
